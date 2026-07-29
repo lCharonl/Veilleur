@@ -1,4 +1,7 @@
 [package]
 edition="2024"
-name = "core"
+name = "adapter"
 version = "0.1.0"
+
+
+[lib]
